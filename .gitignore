@@ -1,0 +1,5 @@
+.dist 
+.pio 
+.vscode 
+test
+platformio.ini 
